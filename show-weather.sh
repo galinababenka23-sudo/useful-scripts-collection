@@ -1,2 +1,2 @@
 #!/bin/bash
-curl wttr.in/Moscow?format=13
+curl wttr.in/Moscow?format=3
