@@ -1,2 +1,2 @@
 #!/bin/bash
-df -hп
+df -h
