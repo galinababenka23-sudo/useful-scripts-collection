@@ -1,2 +1,2 @@
 #!/bin/bash
-top -bn1 | grep "Cpu(s)"
+top -bn1 |  grep "Cpu(s)"
