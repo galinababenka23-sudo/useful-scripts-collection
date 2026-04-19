@@ -18,3 +18,4 @@ cd my-scripts
 ### monitor-cpu.sh
 Показывает загрузку процессора в реальном времени.
 ## Скрипты на Bash
+### disk-usage.sh
