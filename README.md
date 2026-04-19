@@ -20,3 +20,4 @@ cd my-scripts
 ## Скрипты на Bash
 ### disk-usage.sh
 Показывает использование диска.
+### check-internet.sh
