@@ -25,3 +25,4 @@ cd my-scripts
 ### show-date.sh
 Показывает текущую дату и время.
 ## Скрипты на Python
+### hello.py
