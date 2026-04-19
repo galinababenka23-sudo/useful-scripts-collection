@@ -27,3 +27,4 @@ cd my-scripts
 ## Скрипты на Python
 ### hello.py
 Выводит приветствие.
+### calc.py
