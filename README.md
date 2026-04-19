@@ -35,3 +35,4 @@ cd my-scripts
 bash имя_скрипта.sh
 python имя_скрипта.py
 ## Требования
+- Linux или macOS
