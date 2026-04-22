@@ -38,3 +38,4 @@ python имя_скрипта.py
 - Linux или macOS
 - Bash 4.0+
 - Python 3.6+
+## Автор
