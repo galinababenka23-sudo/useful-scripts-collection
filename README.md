@@ -37,3 +37,4 @@ python имя_скрипта.py
 ## Требования
 - Linux или macOS
 - Bash 4.0+
+- Python 3.6+
